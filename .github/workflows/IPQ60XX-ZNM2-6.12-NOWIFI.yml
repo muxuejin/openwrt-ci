@@ -10,7 +10,6 @@ env:
   REPO_BRANCH: main-nss
   CONFIG_FILE: configs/znm2-nowifi.config
   DIY_SCRIPT: diy-script.sh
-  CLASH_KERNEL: amd64
   CACHE_TOOLCHAIN: true
   UPLOAD_BIN_DIR: false
   FIRMWARE_RELEASE: true
